@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Carro_Andri/1.0.0": {
+        "runtime": {
+          "Carro_Andri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carro_Andri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
